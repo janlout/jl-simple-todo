@@ -2,7 +2,7 @@
   "name": "jl-simple-todo",
   "displayName": "JL Simple ToDo",
   "description": "A very simple todo-list, implemented using the tree view",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.90.0"
   },
